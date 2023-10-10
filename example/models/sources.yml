@@ -5,5 +5,4 @@ sources:
     database: cutini_demo
     schema: synthea
     tables:
-      - name: encounters
-      - name: patients
+      - name: conditions
